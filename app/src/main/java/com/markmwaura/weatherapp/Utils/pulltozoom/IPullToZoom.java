@@ -1,16 +1,6 @@
 package com.markmwaura.weatherapp.Utils.pulltozoom;
 
-/**
- * Author:    ZhuWenWu
- * Version    V1.0
- * Date:      2014/11/7  14:21.
- * Description:
- * Modification  History:
- * Date         	Author        		Version        	Description
- * -----------------------------------------------------------------------------------
- * 2014/11/7        ZhuWenWu            1.0                    1.0
- * Why & What is modified:
- */
+
 
 import android.content.res.TypedArray;
 import android.view.View;

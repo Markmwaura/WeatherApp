@@ -5,4 +5,16 @@
 	<string name="navigation_drawer_close">Close navigation drawer</string>
 
 	<string name="action_settings">Settings</string>
+	<string name="fontello_logo">&#xe8ad;</string>
+	<string name="fontello_search">&#xea01;</string>
+	<string name="fontello_x_mark">&#xe887;</string>
+	<string name="fontello_x_mark_masked">&#xe885;</string>
+	<string name="fontello_microfon">&#xea18;</string>
+	<string name="fontello_user">&#xe800;</string>
+	<string name="fontello_password">&#xe9df;</string>
+	<string name="fontello_upload">&#xeb30;</string>
+	<string name="fontello_play">&#xea7d;</string>
+	<string name="fontello_heart_empty">&#xe9b5;</string>
+	<string name="fontello_heart_full">&#xe9b6;</string>
+	<string name="fontello_drag_and_drop">&#xe988;</string>
 </resources>

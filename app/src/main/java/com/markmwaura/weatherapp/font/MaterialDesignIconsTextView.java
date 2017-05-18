@@ -3,7 +3,9 @@ package com.markmwaura.weatherapp.font;
 import android.content.Context;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
-
+/**
+ * Created by mark on 5/17/17.
+ */
 public class MaterialDesignIconsTextView extends android.support.v7.widget.AppCompatTextView {
 	
 	private static Typeface sMaterialDesignIcons;

@@ -15,17 +15,7 @@ import android.widget.FrameLayout;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
-/**
- * Author:    ZhuWenWu
- * Version    V1.0
- * Date:      2014/11/7  18:01.
- * Description:
- * Modification  History:
- * Date         	Author        		Version        	Description
- * -----------------------------------------------------------------------------------
- * 2014/11/7        ZhuWenWu            1.0                    1.0
- * Why & What is modified:
- */
+
 public class PullToZoomListViewEx extends PullToZoomBase<ListView> implements AbsListView.OnScrollListener {
     private static final String TAG = PullToZoomListViewEx.class.getSimpleName();
     private FrameLayout mHeaderContainer;

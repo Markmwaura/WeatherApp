@@ -16,17 +16,7 @@ import android.widget.LinearLayout;
 
 import com.markmwaura.weatherapp.R;
 
-/**
- * Author:    ZhuWenWu
- * Version    V1.0
- * Date:      2014/11/7  14:18.
- * Description:
- * Modification  History:
- * Date         	Author        		Version        	Description
- * -----------------------------------------------------------------------------------
- * 2014/11/7        ZhuWenWu            1.0                    1.0
- * Why & What is modified:
- */
+
 public abstract class PullToZoomBase<T extends View> extends LinearLayout implements IPullToZoom<T> {
     private static final float FRICTION = 2.0f;
     protected T mRootView;

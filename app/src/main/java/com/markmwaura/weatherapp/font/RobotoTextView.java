@@ -6,7 +6,9 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 
 import com.markmwaura.weatherapp.R;
-
+/**
+ * Created by mark on 5/17/17.
+ */
 public class RobotoTextView extends android.support.v7.widget.AppCompatTextView {
 
 	public RobotoTextView(Context context) {
