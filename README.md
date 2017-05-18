@@ -16,3 +16,11 @@ Connect your device to the internet and change you location settings on the phon
 You can now tap the app icon called Weather and enjoy.
 
 If it takes too long to load the weather data please consider restarting your phone and the internet is on.
+
+### Screenshots
+
+
+
+![Screen](https://github.com/Markmwaura/WeatherApp/blob/master/Screen.png)
+
+![Screen](https://github.com/Markmwaura/WeatherApp/blob/master/Screens.png)
